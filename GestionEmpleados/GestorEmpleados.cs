@@ -117,7 +117,7 @@ namespace GestionEmpleados
             }
             else
             {
-                empleados = new List<Empleado>(); // Si no existe el archivo, inicializar lista vacía
+                empleados = new List<Empleado>();
             }
         }
         public void MostrarTodosEmpleados()
